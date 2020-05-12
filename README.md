@@ -1,5 +1,3 @@
-# -Nosql-Workout-Tracker
- Nosql-Workout-Tracker
 # WorkoutTrackerNosql
 Nosql Homework: Workout Tracker
 
